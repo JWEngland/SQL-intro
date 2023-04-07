@@ -1,4 +1,5 @@
 -- Create the students table
+DROP TABLE students; 
 
 CREATE TABLE students (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
